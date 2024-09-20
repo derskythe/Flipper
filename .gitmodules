@@ -76,3 +76,9 @@
 [submodule "BadUSB/CounterCrowdStrike"]
 	path = BadUSB/CounterCrowdStrike
 	url = https://github.com/ooovenenoso/CounterCrowdStrike
+[submodule "BadUSB/AbeNaws-BadUSB"]
+	path = BadUSB/AbeNaws-BadUSB
+	url = https://github.com/AbeNaws/Flipper-Zero-BadUsb-Scripts
+[submodule "BadUSB/Aleff-BadUSB"]
+	path = BadUSB/Aleff-BadUSB
+	url = https://github.com/aleff-github/my-flipper-shits/
